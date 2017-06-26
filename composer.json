@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Annatar\\": "app/"
+    }
+  },
+  "require": {
+    "predis/predis": "^1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.0.*"
+  }
+}
